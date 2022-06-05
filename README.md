@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Lina Bouras!</h1>
+<h1 align="center">Hello 👋, I'm Lina !</h1>
 <h3 align="center">A passionate computer science student from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
